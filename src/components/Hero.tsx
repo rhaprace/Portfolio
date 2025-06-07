@@ -70,8 +70,7 @@ const Hero = () => {
               <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
                 Developer, I make Awesome and Dynamic Web Applications.
               </p>
-            </div>
-            <div className="flex justify-center">
+            </div>            <div className="flex justify-center">
               <button
                 onClick={scrollToProjects}
                 className="group inline-flex items-center space-x-3 bg-gradient-to-r from-neon-green to-neon-blue text-background px-8 py-4 font-semibold hover:from-neon-blue hover:to-neon-purple transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-neon-blue/30"
