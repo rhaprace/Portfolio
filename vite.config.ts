@@ -6,7 +6,6 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 export default defineConfig({
   plugins: [react()],
-  base: '/Portfolio/', // Replace 'Portfolio' with your GitHub repository name
   css: {
     postcss: './postcss.config.js',
   },
