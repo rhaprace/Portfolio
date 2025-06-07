@@ -1,5 +1,3 @@
-import { Mail, MapPin, Phone, Github, Linkedin, Facebook } from 'lucide-react';
-
 const Contact = () => {
   return (
     <section id="contact" className="py-20 bg-background relative">
